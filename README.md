@@ -1,4 +1,15 @@
 # SDS-Website
+React app deployed to Cloudflare Pages.
+
+## Local development
+npm install
+npm run dev
+
+## Production build
+npm run build
+
+## Deployment
+Push to the main branch. Cloudflare Pages automatically builds and deploys.
 
 ## React + Vite
 
